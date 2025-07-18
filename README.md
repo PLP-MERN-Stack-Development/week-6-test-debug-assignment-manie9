@@ -30,3 +30,7 @@ Some tests I carried out didn't work as I encountered a lot of errors in the pro
    ```bash
    git clone <repository-url>
    cd mern-bug-tracker
+
+
+
+![alt text](<Screenshot 2025-07-19 at 12.15.38 AM.png>)
