@@ -1,0 +1,11 @@
+const { sum, multiply } = require('../../src/utils/math');
+
+describe('Utility functions', () => {
+  test('sum adds two numbers correctly', () => {
+    expect(sum(1, 2)).toBe(3);
+  });
+
+  test('multiply multiplies two numbers correctly', () => {
+    expect(multiply(2, 3)).toBe(6);
+  });
+});

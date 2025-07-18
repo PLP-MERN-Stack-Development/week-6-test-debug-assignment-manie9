@@ -92,4 +92,4 @@ describe('Button Component', () => {
     // Should also have the default classes
     expect(button).toHaveClass('btn-primary');
   });
-}); 
+});
